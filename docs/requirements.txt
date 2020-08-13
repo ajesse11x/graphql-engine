@@ -23,7 +23,7 @@ requests==2.20.0
 six==1.11.0
 snowballstemmer==1.2.1
 sphinx-autobuild==0.7.1
-Sphinx==1.6.5
+Sphinx==3.0.4
 sphinx_tabs==1.1.7
 sphinxcontrib-fulltoc==1.2.0
 sphinxcontrib-httpdomain==1.7.0
@@ -31,5 +31,5 @@ sphinxcontrib-swaggerdoc==0.1.7
 sphinxcontrib-websupport==1.0.1
 sphinxcontrib-images==0.7.0
 tornado==4.5.2
-urllib3==1.24.2
+urllib3==1.24.3
 watchdog==0.8.3
